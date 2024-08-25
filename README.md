@@ -16,7 +16,13 @@
 ## 6. Compare the graphs and hence we obtained the linear regression for the given datas.
 
 
-### Program:
+
+
+
+
+
+
+## Program:
 ```
 
 Program to implement the simple linear regression model for predicting the marks scored.
